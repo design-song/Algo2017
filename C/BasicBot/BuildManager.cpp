@@ -5,7 +5,7 @@ using namespace MyBot;
 BuildManager::BuildManager() 
 {
 }
-
+// commit test
 // 빌드오더 큐에 있는 것에 대해 생산 / 건설 / 리서치 / 업그레이드를 실행한다
 void BuildManager::update()
 {
