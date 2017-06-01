@@ -66,7 +66,8 @@
 
 * C++
 
-  * [Visual Studio 2013 Express](https://www.microsoft.com/en-US/download/details.aspx?id=44914)
+  * ~~[Visual Studio 2013 Express](https://www.microsoft.com/en-US/download/details.aspx?id=44914)~~
+  * 다운로드 URL : http://52.68.225.224/starcraft/vs2013.4_dskexp_ENU.iso 및 http://52.68.225.224/starcraft/wdexpress_full.exe 를 같은 폴더에 다운받은 후 실행해서 설치
 
 * JAVA
 
